@@ -1,0 +1,75 @@
+{
+    "alotOfObjects": [
+      {
+        "id": 1,
+        "name": "random name",
+        "brand": "this brand",
+        "price": 350,
+        "description": "A comfortable shoe for casual wear."
+      },
+      {
+        "id": 2,
+        "name": "Casual Shoe",
+        "brand": "Nike",
+        "price": 120,
+        "description": "A comfortable Nike shoe for casual wear."
+      },
+      {
+        "id": 3,
+        "name": "Running Shoe",
+        "brand": "Adidas",
+        "price": 150,
+        "description": "Adidas running shoes for athletes and runners."
+      },
+      {
+        "id": 4,
+        "name": "Formal Shoe",
+        "brand": "Puma",
+        "price": 180,
+        "description": "Puma formal shoes for professional attire."
+      },
+      {
+        "id": 5,
+        "name": "Hiking Boot",
+        "brand": "Timberland",
+        "price": 250,
+        "description": "Durable Timberland hiking boots for outdoor adventures."
+      },
+      {
+        "id": 6,
+        "name": "Skate Shoe",
+        "brand": "Vans",
+        "price": 90,
+        "description": "Vans skate shoes for skateboarders."
+      },
+      {
+        "id": 7,
+        "name": "Sneaker",
+        "brand": "Converse",
+        "price": 80,
+        "description": "Classic Converse sneakers for everyday wear."
+      },
+      {
+        "id": 8,
+        "name": "Athletic Shoe",
+        "brand": "Under Armour",
+        "price": 200,
+        "description": "Under Armour athletic shoes for sports and workouts."
+      },
+      {
+        "id": 9,
+        "name": "Fashion Sneaker",
+        "brand": "Gucci",
+        "price": 600,
+        "description": "Gucci fashion sneakers for a stylish look."
+      },
+      {
+        "id": 10,
+        "name": "Dress Shoe",
+        "brand": "Cole Haan",
+        "price": 300,
+        "description": "Elegant Cole Haan dress shoes for formal occasions."
+      }
+    ]
+  }
+  
